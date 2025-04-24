@@ -27,5 +27,3 @@ A classic Tetris clone built with Python and Pygame. This project was created as
 This project was built by following a tutorial and adapting it to better understand game logic and event handling. The goal was to build a fully functioning clone and reinforce object-oriented programming concepts in Python.
 
 
-## Resources
-
